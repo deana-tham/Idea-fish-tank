@@ -1,10 +1,10 @@
-# Idea Fish Tank 🐟
+# Idea Fish Tank 
 
 A playful idea storage app where your ideas become fish that swim around a virtual tank.
 
 ## Demo
 Live demo: https://idea-fish-tankv2-2.vercel.app/
-(will insert gif later)
+## Preview
 
 ## Problem
 
@@ -14,9 +14,21 @@ I often come up with random ideas throughout the day but don't always have a con
 
 Idea Fish Tank is a simple web/mobile app that turns ideas into floating fish inside a digital aquarium.
 
-Each idea becomes a fish that swims around the tank. When an idea is completed or brought to life, the fish becomes shiny to represent that the idea has been realized.
+Each idea becomes a fish that swims around the tank. When an idea is completed, the fish becomes shiny to represent that the idea has been realized.
 
 The goal is to create a fun and visually engaging way to store and revisit ideas.
+
+## Process
+
+**1. Ideation**
+- Sketched concept in Adobe Fresco
+
+**2. UI Design**
+- Mapped flows in Figma
+
+**3. Build**
+- Used Figma → Claude Code workflow
+- Built with React + TypeScript
 
 ## Tech Stack
 
@@ -47,21 +59,6 @@ The minimum version of the product will allow users to:
 - Completed ideas glow and sparkle
 - Hand-drawn assets integrated into a modern UI
 - Ideas persist across sessions via local storage
-
-## Run Locally
-
-```bash
-npm install
-npm run dev
-```
-
-## Deploy
-
-This project is configured for Vercel. Push to your connected GitHub repo and Vercel will build and deploy automatically.
-
-```bash
-npm run build
-```
 
 ## Product Documentation
 
