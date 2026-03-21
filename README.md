@@ -62,4 +62,4 @@ The minimum version of the product will allow users to:
 
 ## Product Documentation
 
-See /product/PRD.md for the product requirements and planning.
+See /product/PRD.md for more details.
