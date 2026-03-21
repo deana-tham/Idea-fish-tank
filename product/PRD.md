@@ -91,7 +91,7 @@ For the first version we will include:
 - number of completed ideas
 
 
-## Future Opportunities
+## Future possible additions 
 
 - multiple tanks
 - idea categories
