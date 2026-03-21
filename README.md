@@ -5,7 +5,7 @@ A playful idea storage app where your ideas become fish that swim around a virtu
 ## Demo
 Live demo: https://idea-fish-tankv2-2.vercel.app/
 ## Preview
-![Demo](C:\Users\Deana\Documents\GitHub\Idea-fish-tankv2\fish_tank_v2\src\assets\demo.gif)
+![Demo](./src/assets/demo.gif)
 
 ## Problem
 
